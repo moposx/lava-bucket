@@ -1,0 +1,29 @@
+{
+    "version": "feature_08",
+    "description": "arch1t3cht's Aegisub fork",
+    "homepage": "https://github.com/arch1t3cht/Aegisub",
+    "license": "BSD-3-Clause | MIT | BSDL | MPL 1.1",
+    "architecture": {
+        "64bit": {
+            "url": [
+                "https://github.com/arch1t3cht/Aegisub/releases/download/feature_08/Windows.MSVC.Release.-.portable.zip"
+            ],
+            "hash": [
+                "e9dcecbd1118277ccb9344ae56652a3666c29d4db4964413bee98f89547d43d9"
+            ]
+        }
+    },
+    "pre_install": [
+        "Expand-Archive -Path $dir\\aegisub-portable-64.zip -DestinationPath $dir\\",
+        "Move-Item -Path $dir\\aegisub-portable\\* -Destination $dir\\",
+        "Remove-Item -Recurse $dir\\aegisub-portable",
+        "Remove-Item $dir\\aegisub-portable-64.zip"
+    ],
+    "shortcuts": [
+        [
+            "Aegisub.exe",
+            "Aegisub"
+        ]
+    ],
+    "notes": "Automation scripts will fail to load for unknown reason. If you need the feature, use the installer instead of the portable build."
+}
