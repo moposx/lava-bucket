@@ -2,7 +2,7 @@
     "version": "feature_08",
     "description": "arch1t3cht's Aegisub fork",
     "homepage": "https://github.com/arch1t3cht/Aegisub",
-    "license": "BSD-3-Clause | MIT | BSDL | MPL 1.1",
+    "license": "https://raw.githubusercontent.com/arch1t3cht/Aegisub/feature/LICENCE",
     "architecture": {
         "64bit": {
             "url": [
