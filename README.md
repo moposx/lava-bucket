@@ -19,6 +19,7 @@ Sorted by the manifest alphabetically.
 | Manifest | Description |
 | -------- | ----------- |
 | `aegisub-arch1t3cht` | arch1t3cht's Aegisub fork. |
+| `bytecode-viewer` | A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More). |
 | `libarchive` | Multi-format archive and compression library. |
 | `manuskript` | The open-source tool for writers. |
 | `zls` | The Zig language server (LSP) binary. |

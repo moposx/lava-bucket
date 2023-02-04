@@ -1,0 +1,34 @@
+{
+    "version": "2.11.2",
+    "description": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+    "homepage": "https://bytecodeviewer.com",
+    "license": "GPL-3.0-only",
+    "url": "https://github.com/Konloch/bytecode-viewer/releases/download/v2.11.2/Bytecode-Viewer-2.11.2.jar",
+    "hash": "536ad387424106083f76cd0cb7c051a22aff21f08663ba2539c11f1ddef9147f",
+    "pre_install": [
+        "Move-Item $dir\\Bytecode-Viewer-2.11.2.jar $dir\\bytecode-viewer.jar",
+        "Invoke-WebRequest -Uri https://raw.githubusercontent.com/Konloch/bytecode-viewer/master/BCV%20Icon.ico -Method Get -Outfile $dir\\bcv.ico"
+    ],
+    "bin": [
+        "bytecode-viewer.jar"
+    ],
+    "shortcuts": [
+        [
+            "bytecode-viewer.jar",
+            "ByteCode Viewer",
+            "",
+            "bcv.ico"
+        ]
+    ],
+    "suggest": {
+        "JDK": [
+            "openjdk",
+            "openjdk17",
+            "openjdk8",
+            "java/temurin-jdk",
+            "java/temurin-lts-jdk",
+            "java/temurin8-jdk"
+        ]
+    },
+    "notes": "The installation assumes that Java (not restricted to the suggested ones) has been installed on this machine."
+}
