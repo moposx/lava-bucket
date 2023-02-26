@@ -6,6 +6,7 @@
 A bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
 ## Using the bucket
+
 ---------------------------------
 
 To add this bucket, run `scoop bucket add lava https://github.com/moposx/lava-bucket`.
@@ -23,11 +24,11 @@ Sorted by the manifest alphabetically.
 | `csgo-demos-manager` | An application to manage replays from the game Counter-Strike: Global Offensive. |
 | `libarchive` | Multi-format archive and compression library. |
 | `manuskript` | The open-source tool for writers. |
+| `repkg` | Wallpaper engine PKG unpacker/TEX converter. |
 | `zls` | The Zig language server (LSP) binary. |
 
-
-
 ## Contribution guide
-----------------------------------
+
+---------------------------------
 
 To make a new manifest contribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
