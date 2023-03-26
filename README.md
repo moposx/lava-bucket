@@ -24,6 +24,8 @@ Sorted by the manifest alphabetically.
 | `csgo-demos-manager` | An application to manage replays from the game Counter-Strike: Global Offensive. |
 | `libarchive` | Multi-format archive and compression library. |
 | `manuskript` | The open-source tool for writers. |
+| `msdfgen` | Multi-channel signed distance field generator. |
+| `msdfgen-openmp` | Multi-channel signed distance field generator (with OpenMP). |
 | `nat-type-tester` | NAT type tester (STUN). |
 | `repkg` | Wallpaper engine PKG unpacker/TEX converter. |
 | `zls` | The Zig language server (LSP) binary. |
