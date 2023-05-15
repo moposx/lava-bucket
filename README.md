@@ -22,6 +22,7 @@ Sorted by the manifest alphabetically.
 | `aegisub-arch1t3cht` | arch1t3cht's Aegisub fork. |
 | `bytecode-viewer` | A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More). |
 | `csgo-demos-manager` | An application to manage replays from the game Counter-Strike: Global Offensive. |
+| `kate-with-fontmod` | Multi-document editor with FontMod DLL. |
 | `libarchive` | Multi-format archive and compression library. |
 | `liberica-misson-control` | The Liberica Misson Control tool. |
 | `manuskript` | The open-source tool for writers. |
