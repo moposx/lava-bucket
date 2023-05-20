@@ -26,6 +26,15 @@
                 ]
             ]
         }
-
+    },
+    "checkver": {
+        "github": "https://github.com/HMBSbige/NatTypeTester"
+    },
+    "autoupdate": {
+        "url": "https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester-$version.7z",
+        "hash": {
+            "url": "https://github.com/HMBSbige/NatTypeTester/releases/tag/$version",
+            "find": "7z\\s([A-Fa-f0-9]{64})"
+        }
     }
 }
