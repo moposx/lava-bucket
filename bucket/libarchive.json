@@ -16,11 +16,10 @@
         "bin\\bsdcat.exe"
     ],
     "checkver":{
-        "url": "https://www.libarchive.org/downloads",
-        "regex": "libarchive-v([\\d.]+)-amd64.zip"
+        "github": "https://github.com/libarchive/libarchive"
     },
     "autoupdate": {
-        "url": "https://www.libarchive.org/downloads/libarchive-v$version-amd64.zip",
+        "url": "https://github.com/libarchive/libarchive/releases/download/v$version/libarchive-v$version-amd64.zip",
         "hash": {
             "url": "https://www.libarchive.org/downloads/sha256sums"
         }
