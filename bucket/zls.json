@@ -13,7 +13,18 @@
             "hash": "899be7b5300b59c1078620a4508665527009bd86b791ffc05f6cad903ab15580"
         }
     },
-    "bin": [
-        "bin\\zls.exe"
-    ]
+    "bin": ["bin\\zls.exe"],
+    "checkver": {
+        "github": "https://github.com/zigtools/zls"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/zigtools/zls/releases/download/$version/x86_64-windows.tar.zst"
+            },
+            "32bit": {
+                "url": "https://github.com/zigtools/zls/releases/download/$version/i386-windows.tar.zst"
+            }
+        }
+    }
 }
