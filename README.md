@@ -24,7 +24,7 @@ Sorted by the manifest alphabetically.
 | `kate-with-fontmod` | Multi-document editor with FontMod DLL. |
 | `libarchive` | Multi-format archive and compression library. |
 | `manuskript` | The open-source tool for writers. |
-| `mstorsjo-llvm-mingw.json` | An LLVM/Clang/LLD based mingw-w64 toolchain created by @mstorsjo. |
+| `mstorsjo-llvm-mingw` | An LLVM/Clang/LLD based mingw-w64 toolchain created by @mstorsjo. |
 | `msdfgen` | Multi-channel signed distance field generator. |
 | `msdfgen-openmp` | Multi-channel signed distance field generator (with OpenMP). |
 | `nat-type-tester` | NAT type tester (STUN). |
