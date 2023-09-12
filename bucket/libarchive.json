@@ -1,11 +1,11 @@
 {
-    "version": "3.7.1",
+    "version": "3.7.2",
     "description": "Multi-format archive and compression library.",
     "notes": "This installation will bring `bsdtar.exe`, `bsdcpio.exe` and `bsdcat.exe` to your PATH.",
     "homepage": "https://www.libarchive.org",
     "license": "https://raw.githubusercontent.com/libarchive/libarchive/master/COPYING",
-    "url": "https://github.com/libarchive/libarchive/releases/download/v3.7.1/libarchive-v3.7.1-amd64.zip.zip",
-    "hash": "311cd74ca56fbbbecb37c66c696b8b2e2b97c4cf441462f2bdae51456db444bc",
+    "url": "https://github.com/libarchive/libarchive/releases/download/v3.7.2/libarchive-v3.7.2-amd64.zip",
+    "hash": "ee555fce9000eca568e57ef6f5fb808ecc1113198a065ff6ad9ce126b522e064",
     "pre_install": [
         "Move-Item -Path $dir\\libarchive\\* -Destination $dir\\",
         "Remove-Item -Recurse $dir\\libarchive"
