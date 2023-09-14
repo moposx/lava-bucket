@@ -5,7 +5,7 @@
     "homepage": "https://www.libarchive.org",
     "license": "https://raw.githubusercontent.com/libarchive/libarchive/master/COPYING",
     "url": "https://github.com/libarchive/libarchive/releases/download/v3.7.2/libarchive-v3.7.2-amd64.zip",
-    "hash": "ee555fce9000eca568e57ef6f5fb808ecc1113198a065ff6ad9ce126b522e064",
+    "hash": "e06f10043b1b148eb38ad06cff678af05beade0bdd2edd8735a198c521fa3993",
     "pre_install": [
         "Move-Item -Path $dir\\libarchive\\* -Destination $dir\\",
         "Remove-Item -Recurse $dir\\libarchive"
