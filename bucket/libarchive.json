@@ -1,7 +1,7 @@
 {
     "version": "3.7.2",
     "description": "Multi-format archive and compression library.",
-    "notes": "This installation will bring `bsdtar.exe`, `bsdcpio.exe` and `bsdcat.exe` to your PATH.",
+    "notes": "This installation will bring `bsdtar.exe`, `bsdcpio.exe` and `bsdcat.exe` to your PATH.\nIf the binaries cannot run because `libcrypto-1_1-x64.dll` is absent, grab that dll file from an OpenSSL 1 installation and put it together with these binaries.",
     "homepage": "https://www.libarchive.org",
     "license": "https://raw.githubusercontent.com/libarchive/libarchive/master/COPYING",
     "url": "https://github.com/libarchive/libarchive/releases/download/v3.7.2/libarchive-v3.7.2-amd64.zip",
