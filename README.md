@@ -22,6 +22,7 @@ Sorted by the manifest alphabetically.
 | `aegisub-arch1t3cht` | arch1t3cht's Aegisub fork. |
 | `cpeditor` | The IDE for competitive programming. |
 | `csgo-demos-manager` | An application to manage replays from the game Counter-Strike: Global Offensive. |
+| `gk-cli` | The GitKraken CLI. |
 | `kate-with-fontmod` | Multi-document editor with FontMod DLL. |
 | `libarchive` | Multi-format archive and compression library. |
 | `manuskript` | The open-source tool for writers. |
