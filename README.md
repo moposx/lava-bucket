@@ -26,6 +26,7 @@ Sorted by the manifest alphabetically.
 | `kate-with-fontmod` | Multi-document editor with FontMod DLL. |
 | `libarchive` | Multi-format archive and compression library. |
 | `manuskript` | The open-source tool for writers. |
+| `mediainfoxp` | GUI for MediaInfo, an OpenSource tool for displaying technical information about media files. |
 | `mstorsjo-llvm-mingw` | An LLVM/Clang/LLD based mingw-w64 toolchain created by @mstorsjo. |
 | `msdfgen` | Multi-channel signed distance field generator. |
 | `msdfgen-openmp` | Multi-channel signed distance field generator (with OpenMP). |
