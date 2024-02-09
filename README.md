@@ -31,6 +31,7 @@ Sorted by the manifest alphabetically.
 | `msdfgen-openmp` | Multi-channel signed distance field generator (with OpenMP). |
 | `nat-type-tester` | NAT type tester (STUN). |
 | `repkg` | Wallpaper engine PKG unpacker/TEX converter. |
+| `x264-launcher` | Simple x264/x265 Launcher. |
 | `zls` | The Zig language server (LSP) binary. |
 
 ## Contribution guide
