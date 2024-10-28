@@ -1,0 +1,16 @@
+{
+    "version": "4.1.1",
+    "description": "An efficient graphical Minecraft seed finder and map viewer.",
+    "homepage": "https://github.com/Cubitect/cubiomes-viewer",
+    "license": "GPL-3.0-only",
+    "hash": "bd8f4f5eddff81a008e6d588c3585aed2c0b10cdbdcc992e08a631687d3bc17f",
+    "url": "https://github.com/Cubitect/cubiomes-viewer/releases/download/4.1.1/cubiomes-viewer-static-win.exe",
+    "shortcuts": [["cubiomes-viewer-static-win.exe", "Cubiomes Viewer"]],
+    "checkver": {
+        "github": "https://github.com/Cubitect/cubiomes-viewer"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Cubitect/cubiomes-viewer/releases/download/$version/cubiomes-viewer-static-win.exe"
+    },
+    "notes": "Currently there is no icon for the program."
+}
