@@ -30,6 +30,7 @@ Sorted by the manifest alphabetically.
 | `mstorsjo-llvm-mingw` | An LLVM/Clang/LLD based mingw-w64 toolchain created by @mstorsjo. |
 | `msdfgen` | Multi-channel signed distance field generator. |
 | `msdfgen-openmp` | Multi-channel signed distance field generator (with OpenMP). |
+| `opentrace` | A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. |
 | `nat-type-tester` | NAT type tester (STUN). |
 | `repkg` | Wallpaper engine PKG unpacker/TEX converter. |
 | `x264-launcher` | Simple x264/x265 Launcher. |
