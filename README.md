@@ -22,7 +22,6 @@ Sorted by the manifest alphabetically.
 | `aegisub-arch1t3cht` | arch1t3cht's Aegisub fork. |
 | `cargo-binstall` | Binary installation for rust projects. |
 | `cpeditor` | The IDE for competitive programming. |
-| `csgo-demos-manager` | An application to manage replays from the game Counter-Strike: Global Offensive. |
 | `cubiomes-viewer` | An efficient graphical Minecraft seed finder and map viewer |
 | `gk-cli` | The GitKraken CLI. |
 | `manuskript` | The open-source tool for writers. |
